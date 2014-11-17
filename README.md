@@ -1,5 +1,8 @@
 # openssl-sys
 
+> **DEPRECATED**: use
+> https://github.com/sfackler/rust-openssl/tree/master/openssl-sys instead
+
 Bindings to openssl for Rust as well as the build scripts necessary to link to
 it.
 
